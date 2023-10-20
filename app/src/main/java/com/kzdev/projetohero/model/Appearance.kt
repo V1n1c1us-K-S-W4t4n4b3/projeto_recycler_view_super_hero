@@ -1,6 +1,6 @@
 package com.kzdev.projetohero.model
 
-data class Appearence(
+data class Appearance(
     val gender: String,
     val race: String,
     val height: List<String>,
